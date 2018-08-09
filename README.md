@@ -1,5 +1,5 @@
 # Piston-Bottle
-Bottle that pours soda with no air intake. 
+Bottle that pours soda with no air intake. Meant to prevent 2-L bottle soda from going flat in 1 day. 
 Spring designed to hold weight of liquid from 0-2 liters. 
 Spring extends as liquid is poured and stays up when bottle is upright. 
 Spring designed with ASTM-227 1.04mm-diameter wire. 
