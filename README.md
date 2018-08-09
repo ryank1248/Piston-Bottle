@@ -13,5 +13,5 @@ Spring with smaller C-ratio means larger (free length)/(mean diameter) ratio, ca
 
 Contents:
 Solidworks Parts and Assembly. 
-Video. 
+Video found on Youtube: https://youtu.be/OwqPFtSswqA
 Low quality rendered images. 
