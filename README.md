@@ -13,6 +13,8 @@ Spring with smaller C-ratio means larger (free length)/(mean diameter) ratio, ca
 It wouldn't work the way it is because it would need a strong syringe-like tightness to hold that much liquid, and that's too much friction for the syringe to move from the spring. It might require the liquid to be bagged inside. An easier solution is a gatorade cooler-shaped dispenser where the lid simply sinks as liquid is poured out
 
 Contents:
-Solidworks Parts and Assembly. 
+
+Solidworks Parts, Assembly, and Rendered Images.
+
 Video found on Youtube: https://youtu.be/pZ3nql1L_ww
 
